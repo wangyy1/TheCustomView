@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:3:40-22:10
+INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:3:40-22:10
+INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:3:40-22:10
+INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:3:40-22:10
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\694d5eaf3bfa2944be60c243f5c151ae\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4de361ed11507dccf925ed8626e9ac5b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3abb815fd44b947f848628467c48bfd4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a84d58e3c8709a9a693bfed81c89df8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0738914e8dc0324cd787f140a4c35e5c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a676d3cf0a21103d5479252423060e46\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b53c0e675a597d7a07bd730f2e189294\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bc08f06d6c02731c381256f8d46b5a9f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b3483f000212d49b787a05f8bf861bf4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\442da82afdc5e7c4742107d176476e8e\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5b3c9a3e16c5c329c118069aba9b52d3\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:3:40-22:10
+INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:3:40-22:10
+INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:3:40-22:10
+	package
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:3:119-151
+		INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:3:40-22:10
+		INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:3:40-22:10
+		INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:3:50-108
+application
+ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:11:158-20:18
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\694d5eaf3bfa2944be60c243f5c151ae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\694d5eaf3bfa2944be60c243f5c151ae\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4de361ed11507dccf925ed8626e9ac5b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4de361ed11507dccf925ed8626e9ac5b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3abb815fd44b947f848628467c48bfd4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3abb815fd44b947f848628467c48bfd4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a84d58e3c8709a9a693bfed81c89df8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a84d58e3c8709a9a693bfed81c89df8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0738914e8dc0324cd787f140a4c35e5c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0738914e8dc0324cd787f140a4c35e5c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a676d3cf0a21103d5479252423060e46\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a676d3cf0a21103d5479252423060e46\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b53c0e675a597d7a07bd730f2e189294\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b53c0e675a597d7a07bd730f2e189294\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bc08f06d6c02731c381256f8d46b5a9f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bc08f06d6c02731c381256f8d46b5a9f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b3483f000212d49b787a05f8bf861bf4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b3483f000212d49b787a05f8bf861bf4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\442da82afdc5e7c4742107d176476e8e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\442da82afdc5e7c4742107d176476e8e\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5b3c9a3e16c5c329c118069aba9b52d3\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5b3c9a3e16c5c329c118069aba9b52d3\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:11:352-378
+	android:label
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:11:257-289
+	android:roundIcon
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:11:298-343
+	android:icon
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:11:214-248
+	android:allowBackup
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:11:179-205
+	android:theme
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:11:387-418
+activity#com.jzxl.thecustomview.MainActivity
+ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:12:428-18:19
+	android:name
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:12:438-466
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:13:480-17:28
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:14:512-67
+	android:name
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:14:520-561
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:16:581-74
+	android:name
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:16:591-638
+activity#com.jzxl.thecustomview.TestActivity
+ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:19:698-58
+	android:name
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml:19:708-736
+uses-sdk
+INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\694d5eaf3bfa2944be60c243f5c151ae\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\694d5eaf3bfa2944be60c243f5c151ae\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4de361ed11507dccf925ed8626e9ac5b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4de361ed11507dccf925ed8626e9ac5b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3abb815fd44b947f848628467c48bfd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3abb815fd44b947f848628467c48bfd4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a84d58e3c8709a9a693bfed81c89df8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a84d58e3c8709a9a693bfed81c89df8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0738914e8dc0324cd787f140a4c35e5c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0738914e8dc0324cd787f140a4c35e5c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a676d3cf0a21103d5479252423060e46\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a676d3cf0a21103d5479252423060e46\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b53c0e675a597d7a07bd730f2e189294\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b53c0e675a597d7a07bd730f2e189294\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bc08f06d6c02731c381256f8d46b5a9f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bc08f06d6c02731c381256f8d46b5a9f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b3483f000212d49b787a05f8bf861bf4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b3483f000212d49b787a05f8bf861bf4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\442da82afdc5e7c4742107d176476e8e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\442da82afdc5e7c4742107d176476e8e\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5b3c9a3e16c5c329c118069aba9b52d3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5b3c9a3e16c5c329c118069aba9b52d3\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\694d5eaf3bfa2944be60c243f5c151ae\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudio_WorkSpace\test_workspace\TheCustomView\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\694d5eaf3bfa2944be60c243f5c151ae\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3abb815fd44b947f848628467c48bfd4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\3abb815fd44b947f848628467c48bfd4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a84d58e3c8709a9a693bfed81c89df8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\5a84d58e3c8709a9a693bfed81c89df8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0738914e8dc0324cd787f140a4c35e5c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0738914e8dc0324cd787f140a4c35e5c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a676d3cf0a21103d5479252423060e46\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a676d3cf0a21103d5479252423060e46\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b53c0e675a597d7a07bd730f2e189294\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b53c0e675a597d7a07bd730f2e189294\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bc08f06d6c02731c381256f8d46b5a9f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\bc08f06d6c02731c381256f8d46b5a9f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b3483f000212d49b787a05f8bf861bf4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\b3483f000212d49b787a05f8bf861bf4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\442da82afdc5e7c4742107d176476e8e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\442da82afdc5e7c4742107d176476e8e\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\694d5eaf3bfa2944be60c243f5c151ae\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\694d5eaf3bfa2944be60c243f5c151ae\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5b3c9a3e16c5c329c118069aba9b52d3\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5b3c9a3e16c5c329c118069aba9b52d3\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\JZXLUI\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5b3c9a3e16c5c329c118069aba9b52d3\AndroidManifest.xml:26:13-58
